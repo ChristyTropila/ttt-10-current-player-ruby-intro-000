@@ -1,5 +1,5 @@
-def turn_count (board)
-  counter = 0
+def turn_count
+  counter=0
   if (counter < 9)
     counter+= counter
   end
